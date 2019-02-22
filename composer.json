@@ -9,7 +9,7 @@
     "require": {
         "php": ">=5.3",
         "guzzle/guzzle": "~3.0",
-        "bradfeehan/guzzle-modular-service-descriptions": "dev-sf34"
+        "bradfeehan/guzzle-modular-service-descriptions": "dev-sfgte34"
     },
     "require-dev": {
         "phpunit/phpunit": "~4.1",
